@@ -10,8 +10,8 @@
 
 ## 🚀 Live Demo
 
-- **Frontend:** https://ems-frontend.vercel.app
-- **Backend API:** https://ems-backend.onrender.com/api
+- **Frontend:** https://employee-management-system-liard-psi.vercel.app/
+- **Backend API:** https://employee-management-system-c5lp.onrender.com
 
 ## ✨ Features
 

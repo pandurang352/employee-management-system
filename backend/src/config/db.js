@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-require('dotenv').config(); // .env file load karein
+require('dotenv').config(); 
 
 const connectDB = async () => {
   try {
